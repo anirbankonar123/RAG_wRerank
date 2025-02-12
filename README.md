@@ -27,6 +27,8 @@ To run the batch code: python testRAG.py<br>
 In the main method, uncomment the method needed<br>
 ex: to ingest doc, process_doc<br>
 to list documents, list_vectordb<br>
+
+<br> Ref: https://youtu.be/zKjh6Y7OZiM
 to delete documents, get_ids, delete_doc<br>
 
 To create the new Pinecone instance , turn the create_DB=True<br>
